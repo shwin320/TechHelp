@@ -25,3 +25,6 @@ a:hover{
 	opacity: 0.5;
 	text-decoration: underline;
 }
+img:hover{
+opacity: 0.5;
+}
