@@ -13,3 +13,7 @@ img{
 display: block;
 margin: 0 auto;
 }
+a{
+font-family: Arial;
+font-size: 18px;
+}
